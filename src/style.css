@@ -31,6 +31,9 @@
       transform: scale(1);
     }
   }
+
+  /* 중단점(Breakpoint) 재정의 */
+  --breakpoint-sm: 30rem;
 }
 
 /* --*: initial; */
