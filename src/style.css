@@ -1,4 +1,6 @@
 @import 'tailwindcss';
+@import './ui/apple/apple-utility-classes.css';
+/* @import "./ui/apple/apple.css" */
 
 :root {
   --likelion: lime;
